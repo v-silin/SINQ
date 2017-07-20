@@ -5,7 +5,8 @@
     "license"           : "MIT",
     "platforms"         : {
         "ios"           : "8.0",
-        "osx"           : "10.9"
+        "osx"           : "10.9",
+        "watchos"           : "3.0"
     },
     "homepage"          : "https://github.com/slazyk/SINQ",
     "authors"           : { "Leszek Slazynski" : "slazyk@gmail.com" },
